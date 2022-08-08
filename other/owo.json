@@ -215,7 +215,7 @@
           }
       ]
     },
-    "BilibiliHotKey":{
+    "Bilibili热词":{
         "type":"image",
         "container":[
           {
@@ -348,7 +348,7 @@
           }
         ]
       },
-      "alu":{
+      "阿鲁":{
         "type":"image",
         "container":[
           {
@@ -1577,7 +1577,7 @@
           }
         ]
       },
-      "weibo":{
+      "微博":{
         "type":"image",
         "container":[
           {
@@ -2911,7 +2911,7 @@
           }
         ]
       },
-      "bilibili动态小电视":{
+      "动态小电视":{
         "type":"image",
         "container":[
           {
@@ -3092,7 +3092,7 @@
           }
         ]
       },
-      "Coolapk":{
+      "酷安":{
         "type":"image",
         "container":[
           {
@@ -3661,7 +3661,7 @@
           }
         ]
       },
-      "lengtu":{
+      "冷兔":{
         "type":"image",
         "container":[
           {
